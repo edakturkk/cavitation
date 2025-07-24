@@ -1,0 +1,114 @@
+
+--- TABLO 1 ---
+
+
+--- TABLO 2 ---
+
+KONU DETAYI
+	Gerekli hallerde barajı tamamen boşaltmak, dolusavak kapasitesini azaltmak, akarsu mansabına bırakılması gerekli miktarda suyu vermek amacıyla baraj gövdesinin altında yapılan hidrolik yapılara dipsavak denir. Baraj dipsavaklarında yüksek akım hızlarının hidrodinamik etkileri nedeniyle kavitasyon hasarları meydana gelir. Dipsavakta oluşan bu yüksek akım hızlarının etkisiyle dipsavak yüzeyindeki basınç değerleri suyun buhar basıncının altına düşer. Dipsavak boyunca bazı noktalarda bu değerlere ulaşıldığında yüzey üzerinde kavitasyon hasarlarını oluşturabilecek hidrodinamik kuvvetler meydana gelir.
+	Kavitasyon hasarlarını önleyebilmek için akıma hava girişini sağlayacak sistemlerin kurulması gereklidir. Kapaklı dipsavaklar, kapak mekanizması ve kapak mansabında yer alan havalandırma bacası ile akıma hava girişi sağlayabilen bir sistemdir. Kapaklı dipsavaklarda su, kapağın altından hızlı bir şekilde geçerken kapağın mansabında atmosfer basıncından daha düşük bir basıncın oluşmasına neden olur. Bu düşük basınç nedeniyle kapağın hemen mansabında açılan havalandırma bacasından dipsavak içerisine hava girişi olur (Şekil 1) ve kabarcıklar halinde suya karışır. Suya karışan hava:
+•	Kavitasyon hasarlarını azaltmak,
+•	Titreşim etkisini azaltmak,
+•	Akımdaki salınımları azaltarak akımı daha kararlı hale getirmek
+
+suretiyle dipsavak güvenliği bakımından önemli katkı sağlarlar.
+
+Bu tez çalışması kapsamında, dipsavaklarda kapak altı akımlarındaki hız ve debi değerlerini ve buna bağlı olarak hava giriş oranlarını birbirleriyle kıyaslayabilmek için aynı kesit alanına sahip farklı boru şekilleri kullanılacaktır. Kapak şekilleri değiştirilmek suretiyle de kapak altı akımı ve kesit farklılığına bağlı olarak oluşan hidrolik sıçrama mekanizmaları ve bunların hava giriş verimine etkileri araştırılacaktır. Ayrıca bütün bu kesit ve kapak şekli değişiklikleri için dipsavak boy uzunlukları, dipsavak çıkışındaki batıklık miktarları ve debi değerleri değiştirilmek suretiyle yapılacak deneysel ölçümlerde en uygun parametreler belirlenecektir.
+
+LİTERATÜR ÖZETİ
+
+Hohermuth [1] 2017 yılında yapmış olduğu çalışmada, dipsavakların, yüksek düşülü barajların rezervuar su seviyesini kontrol etmek için temel güvenlik elemanları olduğunu ve dipsavak kapağının mansap yönündeki yüksek hızlı serbest yüzeyli akışının önemli miktarda hava sürüklenmesine ve hava taşınmasına yol açtığını ifade etmiştir. Dipsavakta negatif basınçları önlemek ve dolayısıyla kapak titreşimleri, kavitasyon ve akış tıkanması sorunlarını önlemek için, bir havalandırma bacası aracılığıyla yeterli miktarda hava girişinin sağlanması gerektiğini ifade etmişlerdir. Dipsavakların hava giriş verimlerini tahmin etmeye yönelik mevcut yaklaşımlar büyük bir dağılım göstermektedir ve serbest yüzeyden tam basınçlı akışa geçişe ilişkin bilgi hala çok sınırlıdır. Sonuç olarak, hâlihazırda mevcut tasarım kuralları tutarlı bir tasarıma izin vermemektedir. Bu çalışmada sistematik bir fiziksel model araştırması yoluyla mevcut tasarım kılavuzlarının  geliştirilmesi amaçlanmıştır.
+
+Hohermuth vd. [2] 2018 yılında yapmış olduğu çalışmada, dipsavakların yüksek düşülü barajlar için önemli bir güvenlik yapısı olduğunu vurgulanmıştır. Dipsavakların temel amacı, su baskını, barajın yapısal hasar görmesi veya bakım çalışmaları durumunda rezervuar su seviyesinin düzenlenmesi ve gerekirse hızlı bir şekilde düşürülmesi olarak ifade edilmiştir. Ek amaçları arasında fazla akışın serbest bırakılmasında dolusavaklara yardımcı olmak, taşkının yönlendirilmesi veya çökeltilerin yıkanması yer alır. Özellikle yüksek barajlarda, kapaklardaki büyük enerji yükü dipsavak tünelinde yaklaşık 50 m/s'ye varan yüksek hızlı serbest yüzey akışına yol açar. Bu büyük akış hızları ve yüksek türbülans seviyeleri, önemli miktarda hava sürüklenmesine ve hava taşınmasına yol açarak dipsavaklarda negatif basınçlara neden olur. Bu negatif basıncın olumsuz etkileri havalandırma bacası yoluyla yeterli hava girişi sağlanarak  azaltabilir. Aşırı negatif basınçları önlemek için gerekli hava girişine yönelik mevcut tasarım denklemleri, ölçekli model testlerine ve prototip ölçümlerine dayanmaktadır. Bu denklemlerin çoğu hava talebini β vena kkntractadaki Froude sayısının bir fonksiyonu olarak ifade eder. Ancak ölçülen ve tahmin edilen β değerleri büyük bir dağılım göstermektedir. Dağılımın bir kısmı farklı akış düzenleriyle açıklanabilir. Geriye kalan dağılım, tasarım denklemindeki havalandırma kaybı katsayısı ζ veya tünel uzunluğu L gibi önemli parametrelerin ihmal edilmesiyle açıklanabilir. Bu çalışma, bu parametrelerin etkisini model testleri ile araştırmayı amaçlamaktadır.
+Hohermuth vd. [3] 2020 yılında yaptıkları çalışmada, dipsavaklarda hava giriş verimini araştırmak için literatürde yapılan birçok deneysel çalışmanın özetini vermiştir. Yapmış oldukları çalışmada ise; bir havalandırma bacası yoluyla yeterli hava girişinin sağlanması halinde, negatif basıncın dipsavaklarda neden olacağı sorunları (kavitasyon, titreşim ve kabarcıklı akım) azaltabileceğini ancak gerekli hava giriş oranlarını tahmin etmeye yönelik mevcut yöntemlerin, düşük kotlardaki debi çıkışları için (dipsavaklar) hava menfezlerinin tasarımını etkileyen tüm faktörleri içermediğini vurgulamışlardır. Bu nedenle, havalandırma süreçlerinin genel anlaşılmasını geliştirmek, hava giriş verimlerini etkileyen parametreleri belirlemek ve yeni bir hava giriş verimi tasarım denklemi formüle etmek amacıyla 20,6 m uzunluğunda hidrolik ölçekli bir modelde 30 m'lik hidrolik yük altında testler yapılmıştır. Bu çalışmalarda hava giriş veriminin hidrolik ve geometrik parametrelere göre değiştiğini belirlemişlerdir. Farklı akım tipleri altında hava giriş verimlerini belirlemek için bazı formüller geliştirmiştir. Bu formüllerden bazıları Hohermuth vd. [3]’in çalışmasında aşağıda verilen Tablo 1’de özetlenmiştir. 
+
+Tablo 1. Düşük seviyeli çıkışlar için mevcut hava talebi tasarım denklemlerine genel bakış [3]
+
+
+Yang vd. [4] 2020 yılında yaptıkları çalışmada, dipsavakta sürüklenen havanın kanalda hava ceplerinin oluşmasına ve su ve havanın basınçlı bir şekilde kesintili fışkırması olayına neden olduğunu ifade etmişlerdir. Söz konusu dipsavak, bir kapak, kapak şaftı, yatay boru ve çıkışı içermektedir. Çalışmalar, kuyruk suyunda meydana gelen akış dalgalanmalarından ve patlamalardan sorunlar yaşandığını ve bunun da kapı operasyon kısıtlamalarına yol açtığını gösteriyor. Hidrolik olayı anlamak amacıyla hem prototip deşarj testleri hem de iki fazlı akışların üç boyutlu hesaplamalı akışkanlar dinamiği (CFD) modellemesi yapılmıştır. Tesisin operasyonel odağı küçük ve büyük kapak açıklıklarıdır. CFD sonuçları, kapı şaftına hava sürüklendiğinde, kanaldaki hava kabarcıklarının sürekli parçalanması ve birleşmesinin akışı temsil ettiğini ortaya koymaktadır.
+
+Aydin vd. [5] 2021 yılında yaptıkları çalışmada, yüksek başlıklı radyal kapılı borularda boru kesit geometrisinin hava giriş verimi üzerindeki etkisini araştırmışlardır. Sonuçlar, boru kesit geometrisinin özellikle küçük kapak açılma oranlarında hava giriş verimi üzerinde önemli bir etkiye sahip olduğunu göstermiş ve hava giriş veriminin tahmin edilmesini sağlayacak tasarım denklemleri sunulmuştur.
+
+Baylar vd. [6] 2022 yılında yaptıkları çalışmada, konduit kesit geometrisinin hava giriş verimi ve oksijen transfer verimliliğinde önemli bir rol oynadığına dikkat çekmişlerdir. Bu çalışmanın amacı da yüksek basınçlı kapaklı konduitlerde kesit geometrisinin hava giriş verimi üzerindeki etkisini araştırmaktır. Çalışma iki bölümden oluşmakta olup ilk bölümünde, yüksek basınçlı kapaklı konduit kesit geometrisinin hava giriş verimindeki rolü araştırılmıştır. İkinci bölümde, yüksek basınçlı kapaklı konduit kesit geometrisinin oksijen transfer verimliliğindeki rolü araştırılmıştır.
+
+Aydin vd. [7] 2022 yılında yaptıkları çalışmada, basınçlı bir sulama sistemine sıvı gübre veya kimyasal madde enjekte etmek için kapaklı bir boru kullanılabileceklerini ifade etmişlerdir. Kapak kısmen açıldığında, bir vakum sıvıyı emme borusundan kanalın içine çeker. Kapaklı boruların sıvı emme oranının araştırılması amacıyla deneysel bir çalışma yapılmıştır. Sıvının yoğunluğu ve viskozitesi, sıvı-enjeksiyon oranını etkileyen en önemli parametrelerdir. Bu oran Froude sayısının artmasıyla artmıştır. Kapak açılma oranı arttıkça ve boru uzunluğu arttıkça azalmıştır. Akışkan enjeksiyon oranının tahmin edilebilmesi için Froude sayısı ve akışkanın yoğunluğu ve viskozitesine ilişkin bir tasarım formülü sunulmuştur.
+
+Li vd. [8] 2022 yılında yaptıkları çalışmada, çeşitli batık çıkış derinliklerine sahip kapalı bir borudaki hidrolik sıçramanın akış rejimlerini ve hava giriş verimlerini belirlemek  için fiziksel deneyler yapmışlardır. Batık çıkışlı akış rejimleri, çıkış derinliğine dayalı önceki çalışmaların [9] ardından tanımlanmıştır. Hidrolik sıçramayı basınçlı boru akışı izlerse, sıçrama tamamen gelişene kadar çıkış derinliği arttıkça hava giriş veriminin azalacağını gözlemlemişlerdir. Kısmen batık akımlarda hidrolik sıçrama için gerekli hava giriş veriminin önemli ölçüde azalıp %1'in altına düşeceği ifade edilmiştir. Britanya Kolombiya’sındaki Hugh Keenleyside Barajı'nda yapılan hava giriş verimlerine ait saha ölçümleri, kısmen batık akımlardaki hidrolik sıçramaya yönelik deneysel ölçümlerle tutarlı olduğu ifade edilmiştir. Hidrolik sıçramanın membasındaki hava boşluğunun dinamikleri incelenmiştir. Hava girişi, havalandırma borusunun tepesine yerleştirilen çeşitli boyutlardaki nozullar tarafından kısıtlandığında, kapalı kanaldaki hava basıncının azaldığı ve hidrolik sıçramanın membaya doğru itildiği görülmüştür. Hava menfezindeki enerji kaybı katsayısı da ayrıca incelenmiştir.
+
+Kabiri-Samani vd. [10] 2023 yılında, boru girişindeki girdaplardan doğal hava emilmesi sonucu, şaft dolusavaklarının dipsavaklarındaki iki fazlı hava-su akışının hidrolik özellikleri üzerine model deneyleri yapmışlardır. Deneyler, 2 m çapında ve 1 m yüksekliğinde silindirik bir rezervuarda, giriş çevresinde dönen bir akış altında gerçekleştirilmiş ve en şiddetli iki fazlı akış rejimleri araştırılmıştır. Rezervuarın zeminine merkezinden bağlanan üç farklı dikey boru girişi, farklı girdap tipleri oluşturarak farklı akış deşarjları için incelenmiştir. Sonuçlar, girdaplı akış türünün değişmesiyle boşluk oranının azaldığını göstermiştir. Dipsavaktaki iki fazlı akışın hidrolik özellikleri ve rejimleri ile girişlerdeki girdap türleri arasındaki bağıntıların, basınçlı sistemlerin verimliliğini ve güvenliğini artırmak için hem de bilimsel araştırmalar ve tasarım mühendisleri için faydalı olacağı ifade edilmiştir.
+
+
+
+ 
+KAYNAKLAR  			(EN AZ 10 ADET KAYNAK KULLANILMALIDIR )
+(F. Ü. Fen Bilimleri Enstitüsü Tez Yazım Kılavuzuna uygun şekilde yazılmalıdır. Son 5 yıl içindeki literatür taranmış olmalıdır. Kaynakların tamamına tez yazım kılavuzuna uygun şekilde sadece numaralı sistem kullanılarak Konu Detayı ve Literatür Özeti bölümlerinde mutlaka atıf verilmelidir)
+
+[1] Hohermuth, B. (2017). Air demand of high-head bottom outlets, Proceedings of the 37th IAHR World Congress, August 13 – 18, 2017, Kuala Lumpur, Malaysia.
+[2] Hohermuth, B., Schmocker, L., and Boes, R.M. (2018). Air demand of bottom outlets: insights from scale model tests and prototype measurements, Commission Internationale Des Grands Barrages, Conference paper, doi:10.3929/ethz-b-000309903.
+[3]  Hohermuth, B., Schmocker, L., and Boes, R.M. (2020). Air demand of low-level outlets for large dams, J. Hydraul. Eng. 146(8), 04020055. doi:10.1061/(ASCE)HY.1943-7900.000177.
+[4] Yang, J., Teng, P., Nan, J., Li, S., and Ansell, A. (2020). Assessment and prediction of air entrainment and Geyser formation in a bottom outlet: field observations and CFD simulation, Fluids, 5, 203, doi:10.3390/fluids5040203.
+[5] Aydin, A.B., Baylar, A., Ozkan, F., Tuna, M.C. and Ozturk, M. (2021). Influence of cross-section geometry on air demand ratio in high-head conduits with a radial gate, Water Supply, 21(8): 4086-4097.
+[6] Baylar, A., Ozkan, F., Yildirim, C.B., Aydin, A.B., Tuna, M.C. and Ozturk, M. (2022). The role of cross-sectional geometry of high-head gated conduit in oxygen transfer efficiency, Water and Environment Journal, 36(3):372-379.
+[7] Aydin, A.B., Tuna, M.C., Baylar, A. (2022). Application of gated conduits for fertigation in irrigation systems, Water Practice and Technology, 17(7):1515-1522.
+[8] Li, P., Zhu, D.Z., Asce, M., Xu, T., and Zhang, J. (2022). Air demand of a hydraulic jump in a closed conduit, J. Hydraul. Eng., 148(2): 04021058, doi: 10.1061/(ASCE)HY.1943-7900.0001963.
+[9]  Li, P., Y. Ma, and D. Z. Zhu. (2020). Mass transfer of gas bubbles rising in stagnant water, J. Environ. Eng. 146 (8): 04020084, doi:10 .1061/(ASCE)EE.1943-7870.0001760.
+[10] Kabiri-Samani, A., Khozani, Z.S., and Jafarinasab, N. (2023). Relationship between two-phase flow in bottom outlet and air-core vortices at intake, Water Management, paper 2100055, doi: 10.1680/jwama.21.00055.
+
+--- TABLO 3 ---
+
+Bu tez çalışmasında, dipsavaklarda farklı enkesit şekilleri, farklı kapak tipleri, farklı batıklık durumları, farklı kapak açıklıkları, farklı dipsavak uzunlukları ve farklı debi değerleri dikkate alınarak hava giriş verimleri incelenecektir.
+
+Dipsavaklar, yüksek hızlı hava-su karışımı içeren yapılarıdır. Kapaklı bir dipsavakta yüksek hızlı bir akım kapak altından geçerken çok miktarda hava, akım içerisine girer. Eğer akım içerisine hava girişi sağlanamazsa kapak mansabında basınç düşmesi sonucu kavitasyon meydana gelir. Genellikle, akıma yeterli miktarda hava girişi sağlamak amacıyla, kapak mansabına bir havalandırma bacası yerleştirilir (Şekil 1).
+
+
+ 
+Şekil 1. Dipsavaklarda iki fazlı akım
+
+Dipsavaklarda, kapağın kısmi olarak açılmasıyla oluşan yüksek hızdan dolayı, kapak mansabındaki hava bacasından vakumlanan hava dipsavak içerisinde iki fazlı akımın oluşmasına neden olur. Şekil 2’de dipsavaklarda oluşabilecek akım tipleri görülmektedir.
+
+
+
+ 
+Şekil 2. Dipsavaklarda oluşabilecek akım tiplerinin sınıflandırılması: I) sprey akım (püskürme şeklinde);
+II) serbest yüzeyli akım; III) köpüklü akım; IV) hidrolik sıçrama-1; V) hidrolik sıçrama-2; VI) sadece su akımı.
+
+Deneyler, Elazığ Fırat Üniversitesi Mühendislik Fakültesi ve Teknoloji Fakültesi Hidrolik Laboratuvarlarının fiziki imkânları kullanılarak tasarımı yapılan deney düzeneği üzerinden ölçümler alınarak yapılacaktır. Hava giriş hızını ölçmek için kullanılan deney düzeneği Şekil 3'de gösterilmektedir. Tanktaki su, yüksek basınçlı bir pompa ile boruya iletilmektedir. Akış hızı, akış kontrol vanası kullanılarak ayarlanmaktadır. Akış hızlarını ölçmek için kalibre edilmiş bir elektromanyetik akış ölçer kullanılmaktadır. Kesit geometrisinin hava giriş verimi üzerindeki etkisini araştırmak için farklı boru enkesitleri kullanılacaktır.
+
+ 
+
+Şekil 3. Deney düzeneği
+
+Frode sayısı kapak altındaki su derinliğene göre hesaplanacaktır.
+
+Fr =V/ √g he                                                                                                                                                                                             (1)
+
+burada V kapak altındaki su hızı, g yerçekimi ivmesi, he ise efektif derinliktir (su kesitsel akış alanının su yüzeyi genişliğine oranı). Literatürde Froude sayısı sıklıkla vena kontrakta bölgesi temel alınarak hesaplanmıştır. Yüksek basınçlı kapaklı dipsavaklar yüksek hızlı hava-su karışımı içerdiğinden, bu çalışmada Froude sayısı, vena kontrakta bölümünde akış derinliklerini ve hızlarını belirleme problemini ortadan kaldırmak için kapak altındaki derinliğe dayandırılacaktır.
+
+--- TABLO 4 ---
+
+Dipsavakların; farklı enkesit şekilleri, kapak tipleri, batıklık yükseklikleri, kapak daralmaları, boy uzunlukları ve debi değerleri dikkate alınarak hava giriş verimlerinin incelenmesine literatür çalışmalarında rastlanmamıştır. Dolayısıyla batık akım şartlarında dipsavaklardaki hava giriş verimlerini etkileyen parametreler derinlemesine araştırılarak daha sonraki tasarımlara ışık tutulacaktır.
+
+--- TABLO 5 ---
+
+Dipsavaklarda kapak mansabında oluşan yüksek su hızının basınç düşmesine ve bu düşük basıncında büyük kavitasyon hasarlarına neden olduğu bilinmektedir. Su akımı içerisine hava girişi sağlanarak basınç farkı azaltılır böylece yapı bu hasarlardan korunur. Batık akım şartlarında dolu kesit akımlarda havalandırma işlemi önceden belirlenemeyen bir dizi parametreye oldukça duyarlı olduğu için bu tezde yapılacak deneysel çalışmalarda dipsavaklarda hava giriş verimine etki eden parametreler belirlenecektir. Bu sayede genelleştirilmiş bir denklem geliştirme imkânları doğabilecektir. Literatürde uzun vadeli deney sonuçları, akış yapılandırmalarının düzenli olmayan davranış eğilimi gösterdiği şeklindedir. Bu çalışma sayesinde gerçek ortam sayılabilecek batık ortamlardaki su akışlarına ait hava giriş performanslarının iyileştirilmesi hedeflenmiştir.
+
+--- TABLO 6 ---
+
+Kurum dışına bağımlılık yoktur.
+
+--- TABLO 7 ---
+ |  | 
+NO | İŞ PAKETLERİ | ZAMANLAMA  (Aylar)
+1 | Batık ortamlardaki dipsavaklarda hava giriş oranlarının incelenmesi ile ilgili literatür taraması | 1 – 3
+2 | Deney düzeneğinin kurulması | 4 – 6
+3 | Kurulan deney düzeneğinden verilerin alınması ve değerlendirme yapılması | 7– 13
+4 | Farklı batıklık yükseklikleri, farklı dipsavak en kesit şekilleri, farklı kapak tipleri, farklı kapak daralmaları, farklı dipsavak uzunlukları ve farklı debi değerleri dikkate alınarak hava giriş verimlerinin analiz edilmesi | 14-18
+5 | Deneylerin doğruluğunun değerlendirilmesi | 19-20
+6 | Tez yazımı ve kontroller | 21-24
+7 |  | 
+8 |  | 
+
+--- TABLO 8 ---
+
+
+--- TABLO 9 ---
